@@ -1,8 +1,18 @@
-# [Power BI] Customer Segmentation for A Manufacture Business
+# [Power BI] Customer Segmentation with RFM Analysis
 ## I. Introduction
+This project leverages the AdventureWorks database to conduct a comprehensive RFM (Recency, Frequency, Monetary) analysis on customer transaction data, providing actionable insights for strategic customer segmentation. The analysis categorizes customers into distinct segments based on their purchasing behavior, highlighting the characteristics and value of each segment. Tailored recommendations are provided to enhance customer retention, nurture high-potential segments, and attract new customers, thereby optimizing marketing strategies and improving overall business performance. This Power BI project delivers a visually intuitive dashboard, enabling data-driven decision-making for effective customer relationship management.
 
-### Key Focus Areas
 ### Dataset
+Dataset: adventureworks2019 (public Google BigQuery dataset)
+
+Dataset dictionary: "Data Dictionary" (attached above)
+
+Dataset Schema: https://i0.wp.com/improveandrepeat.com/wp-content/uploads/2018/12/AdvWorksOLTPSchemaVisio.png?ssl=1
+
+Dataset access:
+- Log in to your Google Cloud Platform account and create a new project.
+- Navigate to the BigQuery console and select your newly created project.
+- In the navigation panel, select "Add Data" and then "Star a project by name".
 ## II. Design Thinking Steps
 ### Step 1 - Empathize
 
