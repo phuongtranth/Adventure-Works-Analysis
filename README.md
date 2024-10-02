@@ -88,7 +88,7 @@ Brainstorming
 - Price and promotions are the primary factors driving orders.
 - Advertising channels appear underutilized, suggesting potential for growth in this area. This indicates recent marketing activities have been effective in attracting new customers, though they haven't yet translated into significant revenue.
 ### Segment Performance:
-- Champions (10% of customers) and Loyal customers (9% of customers) generate 75% of total revenue.This concentration highlights the critical importance of these segments to the business.
+- Champions (10% of customers) and Cannot lose them (11% of customers) generate 84% of total revenue.This concentration highlights the critical importance of these segments to the business.
 - 20% of customers fall into the "At Risk" and "Cannot Lose Them" segments. These groups require targeted retention strategies to prevent churn and maintain engagement.
 - The "Cannot Lose Them" segment (11% of customers, 15% of revenue) shows high value but potential disengagement, given their high recency score.
 - The Promising segment (12% of customers, 3% of revenue) represents a significant opportunity for revenue growth.
